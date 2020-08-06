@@ -7,9 +7,6 @@ First test
     <meta name="viewport" content="width=device_width.initial-scale=1.0">
     <meta name="keywords" content="叶文杰,web开发">
     <title>Title</title>
-    <style>
-        
-    </style>
 </head>
 <body>
     <h1>hello</h1>
